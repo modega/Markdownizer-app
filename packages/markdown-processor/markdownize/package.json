@@ -1,0 +1,11 @@
+{
+  "name": "markdownize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "markdownize.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "js-base64": "^3.7.5",
+    "showdown": "^2.1.0"
+  }
+}

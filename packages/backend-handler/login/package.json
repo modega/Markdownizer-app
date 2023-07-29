@@ -1,0 +1,9 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.js",
+  "dependencies": {
+    "mongodb": "^5.7.0"
+  }
+}

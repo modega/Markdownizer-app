@@ -1,0 +1,9 @@
+{
+  "name": "register",
+  "version": "1.0.0",
+  "description": "",
+  "main": "register.js",
+  "dependencies": {
+    "mongodb": "^5.7.0"
+  }
+}
