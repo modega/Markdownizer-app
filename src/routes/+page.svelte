@@ -7,7 +7,7 @@
 	let result = null
 	
 	async function doPost () {
-		const res = await fetch('https://faas-fra1-afec6ce7.doserverless.co/api/v1/web/fn-70a04b6f-5f1e-4e06-8f93-3603eed02683/backend-handler/login', {
+		const res = await fetch('api/backend-handler/login', {
 			method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
