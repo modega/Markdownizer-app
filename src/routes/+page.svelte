@@ -11,7 +11,7 @@
 			method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
-                'X-Require-Whisk-Auth': 'Bx0mw0gXmJ6TMgU'
+                'X-Require-Whisk-Auth': 'Wo859brrmgAKUi8'
             },
 			body: JSON.stringify({
                 username,
