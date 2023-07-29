@@ -1,5 +1,6 @@
 <script>
     import "../app.css";
+    export const prerender = true;
   </script>
 
 <nav class="flex flex-row justify-evenly p-2 text-lg text-cyan-600 font-bold">
